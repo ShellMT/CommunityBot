@@ -4,7 +4,7 @@ Telegram Bot for mod. No credit, free forever.<br />
 
 # Set Up
 `git clone https://github.com/ShellMT/CommunityBot.git`<br />
-Add a .env file and replace your bot token.<br />
+Replace `.env` file and replace your bot token.<br />
 把 `.env` 文件里的 `TOKEN` 更改成你 Telegram 机器人的 Token<br />
 `node index.js`<br />
 And you are done.<br />
